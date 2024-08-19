@@ -1,1 +1,1 @@
-# Codsoft-tasks
+These are the Projects given by the CodSoft company which are done during my internship in the company. These scripts and ML models are designed in such a way that the public can comprehend the breadth of techniques and the numerous approaches to addressing each sort of challenge.
